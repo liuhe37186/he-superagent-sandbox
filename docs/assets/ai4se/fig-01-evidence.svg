@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="540" viewBox="0 0 1060 540" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif">
+<rect width="1060" height="540" fill="#ffffff"/>
+<text x="40" y="38" font-size="21" font-weight="600" fill="#1f2328">同一问题，六个答案：受控研究测得的任务耗时变化</text>
+<text x="40" y="62" font-size="12.5" fill="#57606a">← 更快　　相对无 AI 的任务耗时变化（%）　　更慢 →　　仅比较方向，不同研究口径不可直接合并</text>
+<rect x="400" y="96" width="385.7" height="380" fill="#f6f8fa"/>
+<line x1="400.0" y1="96" x2="400.0" y2="476" stroke="#d8dee4" stroke-width="1"/>
+<text x="400.0" y="500" font-size="12" fill="#57606a" text-anchor="middle">-45%</text>
+<line x1="485.7" y1="96" x2="485.7" y2="476" stroke="#d8dee4" stroke-width="1"/>
+<text x="485.7" y="500" font-size="12" fill="#57606a" text-anchor="middle">-35%</text>
+<line x1="571.4" y1="96" x2="571.4" y2="476" stroke="#d8dee4" stroke-width="1"/>
+<text x="571.4" y="500" font-size="12" fill="#57606a" text-anchor="middle">-25%</text>
+<line x1="657.1" y1="96" x2="657.1" y2="476" stroke="#d8dee4" stroke-width="1"/>
+<text x="657.1" y="500" font-size="12" fill="#57606a" text-anchor="middle">-15%</text>
+<line x1="742.9" y1="96" x2="742.9" y2="476" stroke="#d8dee4" stroke-width="1"/>
+<text x="742.9" y="500" font-size="12" fill="#57606a" text-anchor="middle">-5%</text>
+<line x1="828.6" y1="96" x2="828.6" y2="476" stroke="#d8dee4" stroke-width="1"/>
+<text x="828.6" y="500" font-size="12" fill="#57606a" text-anchor="middle">+5%</text>
+<line x1="914.3" y1="96" x2="914.3" y2="476" stroke="#d8dee4" stroke-width="1"/>
+<text x="914.3" y="500" font-size="12" fill="#57606a" text-anchor="middle">+15%</text>
+<line x1="1000.0" y1="96" x2="1000.0" y2="476" stroke="#d8dee4" stroke-width="1"/>
+<text x="1000.0" y="500" font-size="12" fill="#57606a" text-anchor="middle">+25%</text>
+<line x1="785.7" y1="92" x2="785.7" y2="480" stroke="#1f2328" stroke-width="1.2" stroke-dasharray="3 3" opacity="0.65"/>
+<text x="380" y="124.7" font-size="13" fill="#1f2328" text-anchor="end">Peng 2023｜单任务 RCT（n=95）</text>
+<text x="380" y="143.7" font-size="11.5" fill="#57606a" text-anchor="end">快 55.8%，折算约 -36%</text>
+<line x1="785.7" y1="127.7" x2="478.9" y2="127.7" stroke="#1a7f37" stroke-width="2" opacity="0.35"/>
+<circle cx="478.9" cy="127.7" r="6" fill="#1a7f37" opacity="1"/>
+<text x="478.9" y="114.7" font-size="11.5" font-weight="600" fill="#1a7f37" text-anchor="middle">-35.8%</text>
+<text x="380" y="188.0" font-size="13" fill="#1f2328" text-anchor="end">Google 2024｜单任务 RCT（n=96）</text>
+<text x="380" y="207.0" font-size="11.5" fill="#57606a" text-anchor="end">约 -21%（p=0.086，不显著）</text>
+<line x1="785.7" y1="191.0" x2="605.7" y2="191.0" stroke="#1a7f37" stroke-width="2" opacity="0.35"/>
+<circle cx="605.7" cy="191.0" r="6" fill="#1a7f37" opacity="1"/>
+<text x="605.7" y="178.0" font-size="11.5" font-weight="600" fill="#1a7f37" text-anchor="middle">-21.0%</text>
+<text x="380" y="251.3" font-size="13" fill="#1f2328" text-anchor="end">Cui 2025｜三家公司 RCT（n=4,867）</text>
+<text x="380" y="270.3" font-size="11.5" fill="#57606a" text-anchor="end">PR/周 +26.1%，折算约 -21%</text>
+<line x1="785.7" y1="254.3" x2="608.3" y2="254.3" stroke="#1a7f37" stroke-width="2" opacity="0.35"/>
+<circle cx="608.3" cy="254.3" r="6" fill="#1a7f37" opacity="1"/>
+<text x="608.3" y="241.3" font-size="11.5" font-weight="600" fill="#1a7f37" text-anchor="middle">-20.7%</text>
+<text x="380" y="314.7" font-size="13" fill="#1f2328" text-anchor="end">Borg 2025｜两阶段实验（n=151）</text>
+<text x="380" y="333.7" font-size="11.5" fill="#57606a" text-anchor="end">中位耗时 -30.7%（观察性）</text>
+<line x1="785.7" y1="317.7" x2="522.6" y2="317.7" stroke="#1a7f37" stroke-width="2" opacity="0.35"/>
+<circle cx="522.6" cy="317.7" r="6" fill="#1a7f37" opacity="1"/>
+<text x="522.6" y="304.7" font-size="11.5" font-weight="600" fill="#1a7f37" text-anchor="middle">-30.7%</text>
+<text x="380" y="378.0" font-size="13" fill="#1f2328" text-anchor="end">METR 2025｜真实任务（n=16）</text>
+<text x="380" y="397.0" font-size="11.5" fill="#57606a" text-anchor="end">耗时 +19%（更慢）</text>
+<line x1="785.7" y1="381.0" x2="948.6" y2="381.0" stroke="#cf222e" stroke-width="2" opacity="0.35"/>
+<circle cx="948.6" cy="381.0" r="6" fill="#cf222e" opacity="1"/>
+<text x="948.6" y="368.0" font-size="11.5" font-weight="600" fill="#cf222e" text-anchor="middle">+19.0%</text>
+<text x="380" y="441.3" font-size="13" fill="#1f2328" text-anchor="end">METR 2026｜回归子集（n=10）</text>
+<text x="380" y="460.3" font-size="11.5" fill="#57606a" text-anchor="end">耗时 -18%，作者称不可靠</text>
+<line x1="785.7" y1="444.3" x2="631.4" y2="444.3" stroke="#8c959f" stroke-width="2" opacity="0.35"/>
+<circle cx="631.4" cy="444.3" r="5" fill="#8c959f" opacity="0.6"/>
+<text x="631.4" y="431.3" font-size="11.5" font-weight="600" fill="#8c959f" text-anchor="middle">-18.0%</text>
+<text x="40" y="526" font-size="11" fill="#57606a">注：Peng/Cui 的耗时为按“提速幅度”“PR 数增幅”折算的近似值；METR 2026 因选择效应被作者判定为“很弱的证据”。数据来源见附录 C。</text>
+<text x="785.7" y="500" font-size="12" fill="#57606a" text-anchor="middle">0</text>
+</svg>
