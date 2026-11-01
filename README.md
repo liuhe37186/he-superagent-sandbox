@@ -62,6 +62,7 @@ flowchart LR
 - 原型仓库与设计文档：[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
 - 安装与配置：原型仓库中的 [SETUP.md](https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/SETUP.md)
 - 设计文章：*Exploring Super-agent Design: Towards a More Autonomous Agent System*
+- 实践记录：[从一句话需求到可评审的 PR](docs/superagent-practice.md)
 
 ## 说明
 
