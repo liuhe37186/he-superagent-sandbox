@@ -1,6 +1,6 @@
-# SuperAgent 试验场
+# DSH SuperAgent 试验场
 
-[SuperAgent](https://github.com/deepseek-ai/dsh-superagent-prototype)（`dsh-superagent`）是运行在 [DeepSeek Harness](https://www.deepseek.com/en/harness/) 上的主动式编码智能体，按单个 GitHub 仓库部署。它监听 GitHub（可选飞书）上的请求，把请求变成工单，在独立的会话和目录里完成调研、实现与验证，最后回到原对话交付结果，例如一个可评审的 Pull Request。
+[DSH SuperAgent](https://github.com/deepseek-ai/dsh-superagent-prototype) 是运行在 [DeepSeek Harness](https://www.deepseek.com/en/harness/) 上的主动式编码智能体，按单个 GitHub 仓库部署。它监听 GitHub（可选飞书）上的请求，把请求变成工单，在独立的会话和目录里完成调研、实现与验证，最后回到原对话交付结果，例如一个可评审的 Pull Request。
 
 本仓库是 SuperAgent 的试验场，用来体验、演示和验证它的工作方式。
 
